@@ -1,0 +1,16 @@
+{
+  "name": "Not Addons Website",
+  "description": "The website of NotAddons. The future of addons.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notdiamondz/notaddons"
+  },
+  "keywords": [notaddons, addons, minecraft addons, minecraft, github, xitzdiamondx, notdiamondz, scratch, roblox],
+  "author": "Zack A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notdiamondz/notaddons/issues"
+  },
+  "homepage": "https://github.com/notdiamondz/notaddons"
+}
