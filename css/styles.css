@@ -118,3 +118,12 @@ nav {
 body {
     background-color: #34a4eb;
 }
+
+.404 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
